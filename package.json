@@ -1,0 +1,29 @@
+{
+  "name": "hyperocean",
+  "version": "0.0.0",
+  "main": "index.js",
+  "description": "🌊 Deep oceanic blue Hyper theme",
+  "license": "MIT",
+  "repository": "klauscfhq/hyperocean",
+  "author": {
+    "name": "Klaus Sinani",
+    "email": "klauscfhq@protonmail.com",
+    "url": "https://klauscfhq.github.io"
+  },
+  "maintainers": [
+    {
+      "name": "Mario Sinani",
+      "email": "mariosinani@protonmail.ch",
+      "url": "https://mariocfhq.github.io"
+    }
+  ],
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "dark",
+    "ocean",
+    "blue",
+    "theme",
+    "syntax"
+  ]
+}
