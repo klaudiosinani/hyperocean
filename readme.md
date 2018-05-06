@@ -1,6 +1,6 @@
 # ![screen](media/screen.png)
 
-> Hyperocean - 🌊 Deep oceanic blue Hyper theme
+> 🌊 Deep oceanic blue Hyper theme
 
 ## Install
 
