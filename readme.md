@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://cdn.rawgit.com/klauscfhq/hyperocean/eb4a0712/media/screen.png" width="100%" />
-  <h6>Deep oceanic blue Hyper theme</h6>
+  <p>🌊 Deep oceanic blue Hyper theme</p>
   <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg" />
   <br/>
 </div>
