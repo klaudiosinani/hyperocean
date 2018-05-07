@@ -13,6 +13,7 @@ const white = '#F3EFE0';
 const lightBlack = 'rgba(255, 255, 255, 0.2)';
 const lightWhite = '#FFFFFF';
 const darkBlue = '#0B0D14';
+const lightBlue = '#131622';
 
 exports.decorateConfig = config => {
   return Object.assign({}, config, {
@@ -59,11 +60,16 @@ exports.decorateConfig = config => {
       .tab_tab.tab_active {
         background: ${backgroundColor};
         color: ${foregroundColor};
-        transition: all 140ms ease-in-out;
+        transition: all 140ms ease;
       }
       .tab_tab:not(.tab_active) {
         background: ${darkBlue};
         color: ${lightBlack};
+      }
+      .tab_tab:not(.tab_active):hover {
+        background: ${lightBlue};
+        color: ${foregroundColor};
+        transition: background 140ms ease;
       }
       .tab_icon {
         width: 15px;
