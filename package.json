@@ -17,6 +17,9 @@
       "url": "https://mariocfhq.github.io"
     }
   ],
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "hyper",
     "hyperterm",
