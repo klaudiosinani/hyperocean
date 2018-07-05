@@ -9,6 +9,12 @@
 
 ## Install
 
+### Hyper Store
+
+Get the theme on the official [Hyper Store](https://hyper.is/plugins/hyperocean).
+
+### Using the plugin manager - `hyper`
+
 Firstly, ensure you have [Hyper](https://hyper.is) installed in your system. Once launched, type the following to get the theme.
 
 ```bash
