@@ -21,6 +21,10 @@ Firstly, ensure you have [Hyper](https://hyper.is) installed in your system. Onc
 $ hyper install hyperocean
 ```
 
+## Related
+
+- [ocean-space](https://github.com/oscarmcm/ocean-space) - Visual Studio Code version
+
 ## Team
 
 - Klaus Sinani ([@klauscfhq](https://github.com/klauscfhq))
