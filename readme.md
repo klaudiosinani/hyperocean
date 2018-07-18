@@ -1,11 +1,27 @@
+<h1 align="center">
+Hyperocean
+</h1>
+
 <div align="center">
-  <img src="https://cdn.rawgit.com/klauscfhq/hyperocean/eb4a0712/media/screen.png" width="100%" />
-  <p>🌊 Deep oceanic blue Hyper theme</p>
+  <img src="media/screen.png" width="100%" />
+</div>
+
+<h4 align="center">
+🌊 Deep oceanic blue Hyper theme
+</h4>
+
+<p align="center">
   <a href="https://github.com/bnb/awesome-hyper">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg" />
   </a>
-  <br/>
-</div>
+</p>
+
+## Contents
+
+- [Install](#install)
+- [Related](#related)
+- [Team](#team)
+- [License](#license)
 
 ## Install
 
@@ -13,7 +29,7 @@
 
 Get the theme on the official [Hyper Store](https://hyper.is/plugins/hyperocean).
 
-### Using the plugin manager - `hyper`
+### Hyper plugin manager
 
 Firstly, ensure you have [Hyper](https://hyper.is) installed in your system. Once launched, type the following to get the theme.
 
