@@ -2,13 +2,14 @@
 Hyperocean
 </h1>
 
-<div align="center">
-  <img src="media/screen.png" width="100%" />
-</div>
-
 <h4 align="center">
 🌊 Deep oceanic blue Hyper theme
 </h4>
+
+
+<div align="center">
+  <img src="media/screen.png" width="100%" />
+</div>
 
 <p align="center">
   <a href="https://github.com/bnb/awesome-hyper">
@@ -19,6 +20,7 @@ Hyperocean
 ## Contents
 
 - [Install](#install)
+- [Extra](#extra)
 - [Related](#related)
 - [Team](#team)
 - [License](#license)
@@ -36,6 +38,10 @@ Firstly, ensure you have [Hyper](https://hyper.is) installed in your system. Onc
 ```bash
 $ hyper install hyperocean
 ```
+
+## Extra
+
+To get the exact same look, install Google's [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) font as well as [oh-my-zsh](http://ohmyz.sh/) and set up [pure](https://github.com/sindresorhus/pure) as your zsh prompt.
 
 ## Related
 
