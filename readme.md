@@ -41,11 +41,12 @@ $ hyper install hyperocean
 
 ## Extra
 
-To get the exact same look, install Google's [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) font as well as [oh-my-zsh](http://ohmyz.sh/) and set up [pure](https://github.com/sindresorhus/pure) as your zsh prompt.
+To get the exact same look, install the [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) font as well as [oh-my-zsh](http://ohmyz.sh/) and set up [pure](https://github.com/sindresorhus/pure) as your zsh prompt.
 
 ## Related
 
 - [ocean-space](https://github.com/oscarmcm/ocean-space) - Visual Studio Code version
+- [oceandock](https://github.com/klauscfhq/oceandock) - Plank dock version
 
 ## Team
 
