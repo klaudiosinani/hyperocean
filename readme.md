@@ -46,11 +46,11 @@ To get the exact same look, install the [Roboto Mono](https://fonts.google.com/s
 ## Related
 
 - [ocean-space](https://github.com/oscarmcm/ocean-space) - Visual Studio Code version
-- [oceandock](https://github.com/klauscfhq/oceandock) - Plank dock version
+- [oceandock](https://github.com/klaussinani/oceandock) - Plank dock version
 
 ## Team
 
-- Klaus Sinani ([@klauscfhq](https://github.com/klauscfhq))
+- Klaus Sinani ([@klaussinani](https://github.com/klaussinani))
 - Mario Sinani ([@mariocfhq](https://github.com/mariocfhq))
 
 ## License
