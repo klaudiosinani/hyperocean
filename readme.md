@@ -3,7 +3,7 @@ Hyperocean
 </h1>
 
 <h4 align="center">
-🌊 Deep oceanic blue Hyper theme
+  Deep oceanic blue Hyper theme
 </h4>
 
 
