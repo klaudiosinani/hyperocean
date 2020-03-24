@@ -45,6 +45,7 @@ To get the exact same look, install the [Roboto Mono](https://fonts.google.com/s
 
 ## Related
 
+- [itermocean](https://github.com/klaussinani/itermocean) - Deep oceanic blue iTerm theme
 - [ocean-space](https://github.com/oscarmcm/ocean-space) - Visual Studio Code version
 - [oceandock](https://github.com/klaussinani/oceandock) - Plank dock version
 
