@@ -4,17 +4,17 @@
   "main": "index.js",
   "description": "Deep oceanic blue Hyper theme",
   "license": "MIT",
-  "repository": "klaussinani/hyperocean",
+  "repository": "klaudiosinani/hyperocean",
   "author": {
-    "name": "Klaus Sinani",
-    "email": "klaussinani@gmail.com",
-    "url": "https://klaussinani.github.io"
+    "name": "Klaudio Sinani",
+    "email": "klaudiosinani@protonmail.ch",
+    "url": "https://klaudiosinani.com"
   },
   "maintainers": [
     {
       "name": "Mario Sinani",
-      "email": "mariosinani@protonmail.ch",
-      "url": "https://mariocfhq.github.io"
+      "email": "mario.sinani@imperial.ac.uk",
+      "url": "https://github.com/mariosinani"
     }
   ],
   "files": [

@@ -6,16 +6,9 @@ Hyperocean
   Deep oceanic blue Hyper theme
 </h4>
 
-
 <div align="center">
   <img src="media/screen.png" width="100%" />
 </div>
-
-<p align="center">
-  <a href="https://github.com/bnb/awesome-hyper">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg" />
-  </a>
-</p>
 
 ## Contents
 
@@ -29,7 +22,7 @@ Hyperocean
 
 ### Hyper Store
 
-Get the theme on the official [Hyper Store](https://hyper.is/plugins/hyperocean).
+Get the theme on the official [Hyper Store](https://hyper.is/store/hyperocean).
 
 ### Hyper plugin manager
 
@@ -45,13 +38,13 @@ To get the exact same look, install the [Roboto Mono](https://fonts.google.com/s
 
 ## Related
 
-- [itermocean](https://github.com/klaussinani/itermocean) - Deep oceanic blue iTerm theme
+- [itermocean](https://github.com/klaudiosinani/itermocean) - Deep oceanic blue iTerm theme
 - [ocean-space](https://github.com/oscarmcm/ocean-space) - Visual Studio Code version
-- [oceandock](https://github.com/klaussinani/oceandock) - Plank dock version
+- [oceandock](https://github.com/klaudiosinani/oceandock) - Plank dock version
 
 ## Team
 
-- Klaus Sinani ([@klaussinani](https://github.com/klaussinani))
+- Klaudio Sinani ([@klaudiosinani](https://github.com/klaudiosinani))
 - Mario Sinani ([@mariosinani](https://github.com/mariosinani))
 
 ## License
